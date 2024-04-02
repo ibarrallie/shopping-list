@@ -2,3 +2,5 @@
 -Toilet paper
 -Milk
 -Coffee
+-Ice cream
+-Bacon
